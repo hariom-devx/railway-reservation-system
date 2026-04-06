@@ -19,10 +19,22 @@ This is a **CLI-based Railway Reservation System** designed for academic purpose
 ## Directory Structure
 ```text
 railway-reservation-system/
-│
-├── src/            # C source files
-├── include/        # Header files
-├── data/           # CSV data storage
+├── src/ # C source files
+│ ├── main.c
+│ ├── booking.c
+│ ├── queue.c
+│ ├── stack.c
+│ ├── linkedlist.c
+│ └── bst.c
+├── include/ # Header files
+│ ├── booking.h
+│ ├── queue.h
+│ ├── stack.h
+│ ├── linkedlist.h
+│ └── bst.h
+├── data/ # CSV data storage
+│ ├── passengers.csv
+│ └── trains.csv
 ├── .gitignore
 └── README.md
 ```
