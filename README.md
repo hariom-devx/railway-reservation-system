@@ -17,21 +17,20 @@ This is a **CLI-based Railway Reservation System** designed for academic purpose
 - **Login/Signup System**: Basic authentication for multiple users.
 
 ## Directory Structure
-
-## Directory Structure
-
+```text
 railway-reservation-system/
-src/ # C source files
-include/ # Header files
-data/ # CSV data storage
-.gitignore
-README.md
-
+│
+├── src/            # C source files
+├── include/        # Header files
+├── data/           # CSV data storage
+├── .gitignore
+└── README.md
+```
 ## Usage
 
 1. **Compile the program**:
 
-``bash
+```bash
 gcc -Iinclude src/*.c -o app
 
 ## Usage
@@ -44,10 +43,9 @@ gcc -Iinclude src/*.c -o app
 2. Run:
 
   ./app
+  Follow on-screen instructions to signup/login and manage bookings.
 
-3. Follow on-screen instructions to signup/login and manage bookings.
-
-   
+   ```
 ## Future Improvements
 
 * Add hashed password storage for security.
