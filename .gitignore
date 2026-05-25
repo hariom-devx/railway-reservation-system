@@ -1,0 +1,25 @@
+# Build artifacts
+build/
+railway_system
+*.o
+*.out
+*.exe
+
+# Data files (runtime generated)
+data/*.dat
+
+# IDE / Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Debug
+*.dSYM/
+core
+vgcore.*
