@@ -11,6 +11,7 @@ data/*.dat
 # IDE / Editor
 .vscode/
 .idea/
+.cursor/
 *.swp
 *.swo
 *~

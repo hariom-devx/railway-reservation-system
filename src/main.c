@@ -1,7 +1,4 @@
-/**
- * Railway Reservation System
- * Simple C project using Queue, Linked List, Stack and BST
- */
+/* Railway Reservation System - main menu */
 
 #include "admin.h"
 #include "booking.h"

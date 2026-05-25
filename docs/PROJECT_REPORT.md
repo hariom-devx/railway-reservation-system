@@ -10,7 +10,7 @@
 
 ## 1. Introduction
 
-Indian Railways handles millions of passengers daily. A computerized reservation system simplifies ticket booking, cancellation, waiting list management, and record keeping. This project implements a **menu-driven console application** that simulates core railway reservation operations using fundamental data structures.
+This project is a menu-driven console program for railway ticket booking and cancellation. It uses Queue, Linked List, Stack, and Binary Search Tree as required in the Data Structures syllabus.
 
 ---
 
@@ -99,10 +99,8 @@ The Railway Reservation System successfully demonstrates practical application o
 
 ---
 
-## 8. Future Enhancements
+## 8. Future Work
 
-- Graph-based route finding between stations
-- Hash table for O(1) PNR lookup
-- Date-wise train scheduling
-- Graphical user interface (GTK/Qt)
-- Multi-user authentication with encrypted passwords
+- GUI version
+- Login for each user
+- More trains and routes

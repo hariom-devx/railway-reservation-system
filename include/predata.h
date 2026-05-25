@@ -3,7 +3,6 @@
 
 #include "booking.h"
 
-/* Load trains, passengers and sample bookings when database is empty */
 void load_predata(RailwaySystem *sys);
 void show_predata_info(void);
 
