@@ -5,6 +5,15 @@
 **Project Type:** Data Structures and Algorithms  
 **Language:** C (C11)  
 **Platform:** Console Application  
+**Author:** Hariom  
+
+### System Flow (Summary)
+
+See full diagrams in [FLOW_DIAGRAM.md](FLOW_DIAGRAM.md) and [README](../README.md).
+
+```
+User → Main Menu → Booking / Admin → Data Structures → Save to data/*.dat
+```
 
 ---
 
